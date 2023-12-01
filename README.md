@@ -2,6 +2,9 @@
 
 This project is a deep learning model that identifies whether a plant is healthy or not by analyzing photos of its leaves. It's trained to classify plants into various categories based on their health status.
 
+![image](https://github.com/biswadeep-roy/Plant-Health-Classifier/assets/74821633/a9226f78-11bb-4111-aafd-6d3d8e70301a)
+
+
 ## Dataset
 
 The model was trained on the PlantVillage dataset, which includes the following classes:
